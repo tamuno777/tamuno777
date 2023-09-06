@@ -5,6 +5,6 @@
 📫 How to reach me ,
 📫twitter: @niedavies,
 📫linkdln: winnie davis,
-📫email: davisbeulah07h@gmail.com or  davisbeulah07h@outlook.com
+📫email: davisbeulah07@gmail.com or  davisbeulah07@outlook.com
 
 
