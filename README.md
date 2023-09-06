@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Winnie Davis
-- 👀 I’m interested in Front-end enginerring
-- 🌱 I’m currently open for gigs and projects
-- 💞️ I’m looking to collaborate on front-end development projects using react
-- 📫 How to reach me ,twitter @niedavies
+👋 Hi, my name is Winnie Davis,
+I am a frondend developer.
+Here is my portfolio site : codechef-ten.vercel.app
+
+📫 How to reach me ,
+twitter: @niedavies
+linkdln: winnie davis
+email: davisbeulah07h@gmail.com or  davisbeulah07h@outlook.com
 
 
