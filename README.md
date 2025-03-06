@@ -6,7 +6,7 @@ a seasoned frontend developer with a passion for crafting immersive web and mobi
 Explore my latest projects on my portfolio site:
 
 - [codechef-ten.vercel.app](https://codechef-ten.vercel.app)
-- [winnie-rose.vercel.app](https://winnie-rose.vercel.app)
+- [winnie-davis.vercel.app](https://winnie-davis.vercel.app)
 
 ## 🌐 Technologies
 I specialize in utilizing:
