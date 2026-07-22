@@ -2,7 +2,7 @@
 
 # Hi, I'm Winnie Davis 
 
-### Software Developer • Aspiring Analytics Engineer • MSc IT Candidate
+### Software Developer • Aspiring Analytics Engineer 
 
 I build modern web applications and data solutions, with a growing focus on healthcare technology and analytics engineering.
 
