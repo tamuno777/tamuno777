@@ -1,72 +1,47 @@
-
-
 # Hi, I'm Winnie Davis 
 
-### Software Developer • Aspiring Analytics Engineer 
+### Software Developer | Frontend Development | Software Engineering
 
-I build modern web applications and data solutions, with a growing focus on healthcare technology and analytics engineering.
+I'm a Software Developer interested in building functional, accessible and user-focused web applications.
 
-🌍 Nigeria
+My experience is primarily in frontend development, working with modern JavaScript technologies to build responsive interfaces and practical software solutions.
 
- **Portfolio:** [https://winnie-davis.vercel.app](https://winnie-davis.vercel.app)
+I'm continuously improving my engineering skills, with a growing interest in software architecture, system design, application security, testing and writing maintainable code.
 
-**LinkedIn:** *[https://www.linkedin.com/in/winnie-davis-1aa069246?utm_source=share_via&utm_content=profile&utm_medium=member_ios]*
+###  Tech Stack
 
----
+**Languages**
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
 
-## Tech Stack
+**Frameworks & Libraries**
+- React.js
+- Next.js
+- Tailwind CSS
 
-**Frontend**
+**Tools & Technologies**
+- Git & GitHub
+- REST APIs
+- Socket.io
+- React Hook Form
+- Zod
 
-* React
-* Next.js
-* TypeScript
-* Tailwind CSS
+###  What I'm Working Towards
 
-**Backend**
+- Improving my software engineering fundamentals.
+- Building scalable and maintainable applications.
+- Strengthening my understanding of backend systems and APIs.
+- Learning software architecture and system design.
+- Improving application testing, security and code quality.
 
-* Node.js
-* Express
-* Prisma
-* PostgreSQL
+###  Projects
 
-**Data**
+I'm using this space to document my development journey, share practical projects and demonstrate what I'm learning through hands-on implementation.
 
-* SQL
-* Python
-* Power BI
-* Power Query
-* dbt *(Learning)*
+###  Let's Connect
 
----
-
-## Currently Learning
-
-* Analytics Engineering
-* Data Modeling
-* System Design
-* Software Testing
-* Healthcare Data Systems
-
----
-
-## Featured Projects
-
-* Healthcare Immunization Dashboard (Power BI)
-* Healthcare Data Cleaning with SQL & Python
-* Full-stack Next.js Applications
-
----
-
-## Let's Connect
-
-Portfolio → **winnie-davis.vercel.app**
-
-LinkedIn → **https://www.linkedin.com/in/winnie-davis-1aa069246?utm_source=share_via&utm_content=profile&utm_medium=member_ios**
-
-Email → *davisbeulah07@gmail.com*
-
----
-
-> *Building software and data systems that bridge technology and healthcare.*
+- **Portfolio:** https://winnie-davis.vercel.app
+- **Project Management Profile:** https://github.com/Ms-ibiso/
 
